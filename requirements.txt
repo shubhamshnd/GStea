@@ -1,0 +1,9 @@
+streamlit==1.24.0
+pandas==1.5.3
+openpyxl==3.1.2
+numpy==1.24.3
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.20.8
+pyperclip==1.8.2
+xlrd==2.0.1
+xlsxwriter==3.0.8
